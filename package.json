@@ -66,9 +66,9 @@
     "devDependencies": { "pino": "^7.0.5" },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+        "url": "git+https://github.com/Himasopn/Suhail-Md.git"
     },
-    "bugs": { "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues"  },
-    "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+    "bugs": { "url": "https://github.com/Himasopn/Suhail-Md/issues"  },
+    "homepage": "https://github.com/Himasopn/Suhail-Md#readme"
  }
  
