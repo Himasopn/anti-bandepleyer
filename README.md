@@ -22,4 +22,4 @@ bhago yeha se!
  [`DEPLOY ON HEROKUUUUU💌`](https://heroku.com/deploy?template=https://github.com/Himasopn/anti-bandepleyer)
 
 
- [`CONTACT ME💫`](wa.me/917002015750)
+ [`CONTACT ME💫`](https://wa.me/917002015750)
